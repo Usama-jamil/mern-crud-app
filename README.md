@@ -4,7 +4,7 @@ MERN Stack CRUD built with React v17+, RRDv6+, Node.js, Express.js MongoDB and M
 
 **You can import the JSON File named 'Cruds' to your MongoDB. You will find it in the Server Folder**
 
-[Download](https://github.com/jackbalageru/MERN-CRUD) | [Developer Portfolio](https://henok.us)
+ [Developer Portfolio](http://saimtrils77.000webhostapp.com/)
 
  If you love my project please star ⭐️ my repo!**
 
